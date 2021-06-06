@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aashishdhungana
 - 👀 I’m interested in learning different langauge 
 - 🌱 I’m currently learning Javascript Language 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Soon ....
 - 📫 How to reach me Contact me in aashishdhungana272@gmail.com
 
 <!---
